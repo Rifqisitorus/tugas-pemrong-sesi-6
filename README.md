@@ -1,1 +1,4 @@
-# tugas-pemrong-sesi-6
+# 🚀 Program Simulasi Pengguna Laptop dengan Interface (Java)
+
+Made by Rizqi Wijaya
+
